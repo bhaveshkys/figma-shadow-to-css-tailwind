@@ -11,7 +11,7 @@ This project is a simple React application that generates CSS and Tailwind CSS c
 
 ## Demo
 
-You can see a live demo of the project hosted on Netlify [here](#).
+You can see a live demo of the project hosted on Netlify [here](https://figma-shadow-to-css-tailwind.netlify.app/).
 
 ## Getting Started
 
